@@ -72,16 +72,16 @@ plt.show()
 
 ### OUTPUT:
 
-###ORIGINAL DATA:
+### ORIGINAL DATA:
 ![image](https://github.com/user-attachments/assets/10a8ef1c-4129-4451-a3dd-ebbd8bdbc38e)
 
-###REGULAR DIFFERENCING:
+### REGULAR DIFFERENCING:
 ![image](https://github.com/user-attachments/assets/e26cdd79-e625-4362-8d7a-9e04827944d2)
 
-###SEASONAL ADJUSTMENT:
+### SEASONAL ADJUSTMENT:
 ![image](https://github.com/user-attachments/assets/ace399ff-e8ac-42ce-94b6-7e6d444416fa)
 
-###LOG TRANSFORMATION:
+### LOG TRANSFORMATION:
 ![image](https://github.com/user-attachments/assets/23e962b0-ab73-444c-95b0-88db8458dbc1)
 
 ### RESULT:
